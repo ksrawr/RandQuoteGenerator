@@ -1,0 +1,79 @@
+.background {
+  background-image: url("https://cdn-images-1.medium.com/max/1920/1*bo5qhZuCUH1AOR-Y4UQ2-A.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: 0 auto;
+}
+
+.alignMent {
+  color: black;
+}
+
+.BS {
+  font-style: italic;
+  font-size: 16px;
+}
+
+.quotes {
+  background-color: white;
+  width: 33%;
+  margin-right: auto;
+  margin-left: auto;
+  color: black;
+  border: 5px solid rgb(0, 152, 255);
+  border-radius: 0.55em;
+  margin-top: 20px;
+  padding: 20px;
+  height: auto;
+  font-size: 20px;
+}
+
+.author {
+  font-style: italic;
+}
+
+.block {
+  position: absolute;
+  top: 20%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: 0 auto;
+}
+
+h1 {
+  background-color: white;
+  width: 38%;
+  margin-right: auto;
+  margin-left: auto;
+  color: black;
+  border: 3px solid rgb(0, 152, 255);
+  border-radius: 0.75em;
+  margin-top: 20px;
+  padding: 20px;
+}
+
+p {
+  background-color: white;
+  width: 11.5%;
+  margin-right: auto;
+  margin-left: auto;
+  color: black;
+  border: 2px solid rgb(0, 152, 255);
+  border-radius: 0.75em;
+  margin-top: 0px;
+  padding: 4px;
+}
+
+.btn {
+  margin-top: 5%;
+  border: 6px solid orange;
+  border-radius: 0.75em;
+  font-size: 1.5em;
+}
